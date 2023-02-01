@@ -16,3 +16,5 @@ export function createStore() {
         }
     }
 }
+
+const changeMaster = true;
